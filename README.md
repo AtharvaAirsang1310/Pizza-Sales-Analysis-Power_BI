@@ -39,6 +39,8 @@ The dashboard focuses on sales performance, customer ordering behavior, and prod
 ---
 
 ## 🖼 Dashboard Preview
-_Add your screenshots here after uploading them to the repository._
 
-Example:
+<img width="904" height="751" alt="image" src="https://github.com/user-attachments/assets/4746f0a1-49bb-4472-9c35-19a67508bb0d" />
+
+
+
