@@ -47,5 +47,10 @@ The dashboard focuses on sales performance, customer ordering behavior, and prod
 
 <img width="902" height="752" alt="image" src="https://github.com/user-attachments/assets/091ce3a2-c6b5-4ca5-9a53-17662c84f419" />
 
+---
+
+## 🏁 Conclusion
+This dashboard converts pizza sales data into actionable insights that support smarter decisions on revenue growth, product performance, and customer purchasing trends.
+
 
 
