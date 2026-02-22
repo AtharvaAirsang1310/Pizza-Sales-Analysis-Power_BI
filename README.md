@@ -39,7 +39,6 @@ The dashboard focuses on sales performance, customer ordering behavior, and prod
 ## 📁 Repository Contents
 - `Pizza_Sales_Dashboard.pbix` – Main Power BI file
 - `dataset.csv` – Source dataset (if included)
-- `screenshots/` – Dashboard preview images
 
 ---
 
